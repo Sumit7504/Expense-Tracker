@@ -1,6 +1,6 @@
 # 💸 Single-Page Expense Tracker
 
-A responsive and beginner-friendly **Expense Tracker** built entirely in one HTML file. It uses **vanilla JavaScript** to handle user input, dynamically update a summary table, and calculate totals—all without any external files or frameworks.
+A responsive and beginner-friendly **Expense Tracker** 
 
 ---
 
